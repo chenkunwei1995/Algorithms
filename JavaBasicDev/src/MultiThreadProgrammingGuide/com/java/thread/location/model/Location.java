@@ -1,4 +1,4 @@
-package com.java.thread.model.location;
+package MultiThreadProgrammingGuide.com.java.thread.location.model;
 
 public class Location {
     private double x;
